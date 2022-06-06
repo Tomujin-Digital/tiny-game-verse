@@ -1,0 +1,12 @@
+*.csproj
+*.apk
+Logs
+.vscode
+UserSettings
+*.sln
+Library
+Temp
+ProjectSettings
+obj
+.vs
+*.DS_Store
