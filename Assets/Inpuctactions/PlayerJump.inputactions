@@ -1,0 +1,34 @@
+{
+    "name": "PlayerJump",
+    "maps": [
+        {
+            "name": "Jump",
+            "id": "a45c74f8-1e85-449b-9596-2ead4b9171bb",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Value",
+                    "id": "1296487e-bcae-4d7b-8445-9945915ad261",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ec093b3c-dbf9-4f00-8dda-1a3221b48344",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
